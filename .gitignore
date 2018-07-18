@@ -1,0 +1,9 @@
+*~
+.DS_Store
+*.log
+.idea/
+.tmp/
+node_modules/
+coverage/
+coverage-report/
+karma/
